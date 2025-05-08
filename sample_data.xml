@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <book id="001">
+    <title>Effective Python</title>
+    <author>Brett Slatkin</author>
+    <year>2015</year>
+    <topics>
+      <topic>Python</topic>
+      <topic>Best Practices</topic>
+    </topics>
+  </book>
+  <book id="002">
+    <title>Fluent Python</title>
+    <author>Luciano Ramalho</author>
+    <year>2015</year>
+    <topics>
+      <topic>Advanced Python</topic>
+      <topic>OOP</topic>
+    </topics>
+  </book>
+</library>

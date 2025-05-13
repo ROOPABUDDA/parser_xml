@@ -1,0 +1,34 @@
+{
+  "library": {
+    "book": [
+      {
+        "@attributes": {
+          "id": "001"
+        },
+        "title": "Effective Python",
+        "author": "Brett Slatkin",
+        "year": "2015",
+        "topics": {
+          "topic": [
+            "Python",
+            "Best Practices"
+          ]
+        }
+      },
+      {
+        "@attributes": {
+          "id": "002"
+        },
+        "title": "Fluent Python",
+        "author": "Luciano Ramalho",
+        "year": "2015",
+        "topics": {
+          "topic": [
+            "Advanced Python",
+            "OOP"
+          ]
+        }
+      }
+    ]
+  }
+}
